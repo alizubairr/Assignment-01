@@ -320,11 +320,12 @@ footer#footer {
 h1 {}
 
 .about-details h5 {
-    font-family: -webkit-pictograph;
+    font-family: 'Poppins';
     text-transform: uppercase;
     margin-top: -30px;
     letter-spacing: .3px;
     word-spacing: 3px;
+    font-weight: 500;
 }
 button#resume {
     background: #ff5656;
