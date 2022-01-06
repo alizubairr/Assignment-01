@@ -52,8 +52,6 @@ body{
     font-size: 45px;
     font-weight: 800;
     word-spacing: 8px;
-    border-left: 5px solid #ff5656;
-    padding-left: 9px;
     border-radius: 5px;
     line-height: 60px;
     letter-spacing: .4px;
@@ -343,27 +341,44 @@ button#resume a {
     font-family: 'Poppins';
     font-weight: 500;
 }
-/* #my-mission{
-    background-image: url(images/shapes/shape-5.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 199px;
-    background-position-x: 112%;
-    background-position-y: 534px;
-} */
 #develope-without-limit{
-    background-image: url("images/shapes/shape-1.png");
+    background-image: url("images/shapes/shape-8.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: 200px;
-    background-position-y: 58px;
-    background-position-x: 43px;
+    background-position-y: 229px;
+    background-position-x: 93px;
 }
 #gobal-community{
     background-image: url("images/shapes/shape-1.png");
     background-repeat: no-repeat;
     background-position: right;
     background-size: 205px;
-    background-position-y: 249px;
-    background-position-x: 91%;
+    background-position-y: 243px;
+    background-position-x: 90%;
+}
+.textarea h1:before {
+    content: "";
+    background: #ff5656;
+    border: 3px solid #ff5656;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.textarea h1 span:before {
+    content: "";
+    background: #ff5656;
+    border: 3px solid #ff5656;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.head-about h1:before {
+    content: "";
+    background: #ff9f00;
+    border: 3px solid #ff9f00;
+    display: block;
+    width: 192px;
+    margin-left: 451px;
+    transform: translateY(58px);
+    border-radius: 5px;
 }
