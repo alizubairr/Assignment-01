@@ -365,14 +365,14 @@ button#resume a {
     margin-right: 10px;
 }
 
-.textarea h1 span:before {
+.textarea h1 span::before {
     content: "";
     background: #ff5656;
     border: 3px solid #ff5656;
     border-radius: 3px;
     margin-right: 10px;
 }
-.head-about h1:before {
+.textarea h1::before {
     content: "";
     background: #ff9f00;
     border: 3px solid #ff9f00;
