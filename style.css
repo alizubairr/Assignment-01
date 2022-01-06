@@ -372,7 +372,7 @@ button#resume a {
     border-radius: 3px;
     margin-right: 10px;
 }
-.textarea h1:before {
+.head-about h1:before {
     content: "";
     background: #ff9f00;
     border: 3px solid #ff9f00;
