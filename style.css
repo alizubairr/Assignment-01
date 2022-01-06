@@ -352,7 +352,7 @@ button#resume a {
     background-position-y: 534px;
 } */
 #develope-without-limit{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url("images/shapes/shape-1.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: 200px;
@@ -360,7 +360,7 @@ button#resume a {
     background-position-x: 43px;
 }
 #gobal-community{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url("images/shapes/shape-1.png");
     background-repeat: no-repeat;
     background-position: right;
     background-size: 205px;
